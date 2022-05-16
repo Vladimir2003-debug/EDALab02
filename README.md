@@ -75,18 +75,20 @@ El ejercicio inicia primero calculando el modulo del numero de casillas de dezpl
 
 Ejercicio 3:Triangulo Recursivo
 El metodo inicia con el if que termina la recursividad
-<br><code>
+<br>
+``` 
  if(n == 1)
             System.out.println("*");   
-</code><br>
+``` 
+<br>
 
 para luego en el else imprimir los puntos de abajo hasta arriba<br>
-
+``` 
     trianguloRecursivo(n-1);
     for(int i = 0; i < n; i++)
     System.out.print("*");
     System.out.println();
-
+``` 
 Listas
 - TDAList
 Es la interface de arrayList y LinkedList se uso el nombre de TDA al inicio para que el IDE no diera problemas con la clase List.java dentro del java.util
