@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">Informe DE LABORATORIO</span><br />
+<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
 </div>
 
 
@@ -29,7 +29,7 @@
 <tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
 </theader>
 <tbody>
-<tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
+<tr><td>ASIGNATURA:</td><td colspan="5">ESTRUCTURAS DE DATOS Y ALGORITMOS</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Revision de Elementos de Programacion(I)</td></tr>
 <tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
@@ -37,18 +37,18 @@
 <tr>
 <td>FECHA INICIO::</td><td>11-Mayo-2022</td><td>FECHA FIN:</td><td>16-Mayo-2022</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
+<tr><td colspan="6">DOCENTES:
+<ul>
+<li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
+</ul>
+</td>
+</<tr>
 <tr><td colspan="6">RECURSOS:
     <ul>
         <li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
         <li><a href="https://guides.github.com/">https://guides.github.com/</a></li>        
         <li><a href="https://www.w3schools.com/java/default.asp">https://www.w3schools.com/java/default.asp</a></li>
     </ul>
-</td>
-</<tr>
-<tr><td colspan="6">DOCENTES:
-<ul>
-<li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
-</ul>
 </td>
 </<tr>
 </tdbody>
