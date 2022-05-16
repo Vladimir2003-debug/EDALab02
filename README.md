@@ -69,7 +69,7 @@
  I Solucion de Ejercicios<br>
  Ejercicio 1:Invertir una matriz
  El ejercicio se resolvio creando una nueva matriz, en donde se insertaban inversamente los elementos
- ![image](https://user-images.githubusercontent.com/83074130/168679116-e0350b52-27ed-40c5-a7b7-2b3b71b21c1c.png)
+ ![image](https://user-images.githubusercontent.com/83074130/168679116-e0350b52-27ed-40c5-a7b7-2b3b71b21c1c.png)<br>
 Ejercicio 2:Rotacion a la izquierda
 El ejercicio inicia primero calculando el modulo del numero de casillas de dezplazamiento(d) con el largo del arreglo. Esto para evitar movimientos inecesarios si se quiere dezplazar una cantidad mayor que el largo del arreglo
 
