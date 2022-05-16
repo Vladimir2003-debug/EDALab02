@@ -37,6 +37,15 @@
 <tr>
 <td>FECHA INICIO::</td><td>11-Mayo-2022</td><td>FECHA FIN:</td><td>16-Mayo-2022</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
+<tr><td colspan="4">Alumnos:
+<ul>
+<li>Sulla Quispe Vladimir Arturo - vsullaq@unsa.edu.pe</li>
+</ul>
+</td>
+    <td >Nota</td>
+    <td colspan="1">    </td>
+</<tr>
+</tr>
 <tr><td colspan="6">DOCENTES:
 <ul>
 <li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
@@ -45,9 +54,10 @@
 </<tr>
 <tr><td colspan="6">RECURSOS:
     <ul>
-        <li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
-        <li><a href="https://guides.github.com/">https://guides.github.com/</a></li>        
-        <li><a href="https://www.w3schools.com/java/default.asp">https://www.w3schools.com/java/default.asp</a></li>
+        <li><a href="https://www.w3schools.com/java/">https://www.w3schools.com/java/</a></li>
+        <li><a href="https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers">https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers</a></li>   
+        <li><a href="https://docs.oracle.com/javase/7/docs/api/java/util/List.html">https://docs.oracle.com/javase/7/docs/api/java/util/List.html</a></li>
+        <li><a href="https://docs.oracle.com/javase/tutorial/java/generics/types.html">https://docs.oracle.com/javase/tutorial/java/generics/types.html</a></li>
     </ul>
 </td>
 </<tr>
