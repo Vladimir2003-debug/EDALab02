@@ -107,7 +107,7 @@ Un List es una interface que sirve como marco para las clases LinkedList y Array
 Las clases genericas nos pueden servir para trabajr con datos desconocidos, el cliente puede usar cualquier tipo de objeto que el programador no conoce, claro que algunas veces no se puede trabajar con genericos como al crear arreglos estandarya que estos no trabajan directamente con genericos pero en el constructor de puede hacer un cast 
 
  ## CONCLUSIONES
- 
+ Al crear tanto ArrayList tanto LinkedList se nos presentan  distintas formas de acceso y añadido de datos a las listas mencionadas dependiendo de la situacion se puede dar un uso optimo a estos TDA.
  
  ## RETROALIMENTACION
  
@@ -117,5 +117,3 @@ Las clases genericas nos pueden servir para trabajr con datos desconocidos, el c
 - https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers
 - https://docs.oracle.com/javase/7/docs/api/java/util/List.html
 - https://docs.oracle.com/javase/tutorial/java/generics/types.html
-- 
- 
